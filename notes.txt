@@ -1,0 +1,39 @@
+Telefon Nömrələri Qeyd Dəftəri
+------------------------------
+
+1. Ad: Elvin Məmmədov
+   Peşə: Proqramçı
+   Telefon: +994 50 612 45 90
+
+2. Ad: Aysel Qasımova
+   Peşə: Müəllimə
+   Telefon: +994 55 740 33 18
+
+3. Ad: Kamran Əliyev
+   Peşə: İnşaat mühəndisi
+Telefon: +994 53 453 8663
+
+4. Ad: Ləman Hacıyeva
+   Peşə: Tibb bacısı
+   Telefon: +994 51 325 77 44
+
+5. Ad: Emil Rzayev
+   Peşə: Elektrik ustası
+   Telefon: +994 77 240 11 88
+
+6. Ad: Günel Orucova
+   Peşə: Satıcı
+   Telefon: +994 55 689 50 72
+
+7. Ad: Orxan İsmayılov
+   Peşə: Sürücü
+   Telefon: +994 70 914 66 20
+
+8. Ad: Nigar Məmmədli
+   Peşə: Dizayner
+   Telefon: +994 51 800 12 09
+
+
+9. Ad: Elmir Yaqubov
+Peşə: Hekim
+Telefon: +994 51 351 4523
